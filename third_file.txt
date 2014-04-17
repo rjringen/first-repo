@@ -1,4 +1,0 @@
-This is my third text file.
-edit after initial commit.
-another change.
-yet another edit.
