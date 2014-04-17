@@ -1,3 +1,3 @@
-GIT....
 Our frist Git project file.
 I'm a text file.
+Added a change after initial commit.git status
